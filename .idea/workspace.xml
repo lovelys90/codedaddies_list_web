@@ -11,7 +11,7 @@
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
     </list>
     <list id="826c9b40-8f09-4639-bc55-6b945d08762a" name="New changelist" comment="" />
@@ -102,6 +102,14 @@
       <option name="presentableId" value="Default" />
       <updated>1583375944832</updated>
     </task>
+    <task id="LOCAL-00001" summary="This is my new project">
+      <created>1583984181481</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583984181481</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -116,6 +124,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="This is my new project" />
+    <option name="LAST_COMMIT_MESSAGE" value="This is my new project" />
   </component>
   <component name="WindowStateProjectService">
     <state x="722" y="72" key="#Inspections" timestamp="1583476457392">
@@ -134,18 +146,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="771" y="144" key="#com.intellij.ide.macro.MacrosDialog/0.0.1536.824@0.0.1536.824" timestamp="1583393547790" />
-    <state x="802" y="10" key="CommitChangelistDialog2" timestamp="1583978886202">
+    <state x="802" y="10" key="CommitChangelistDialog2" timestamp="1583984179225">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="802" y="10" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1583978886202" />
+    <state x="802" y="10" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1583984179225" />
     <state x="727" y="184" key="EnvironmentVariablesDialog" timestamp="1583377170204">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="727" y="184" key="EnvironmentVariablesDialog/0.0.1536.824@0.0.1536.824" timestamp="1583377170204" />
-    <state x="896" y="167" key="FileChooserDialogImpl" timestamp="1583977805001">
+    <state x="896" y="167" key="FileChooserDialogImpl" timestamp="1583984604587">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="896" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583977805001" />
+    <state x="896" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583984604587" />
     <state x="1008" y="310" key="Github.ShareDialog" timestamp="1583983586517">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -174,10 +186,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="408" y="112" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583983824146" />
-    <state x="599" y="283" key="VCS.EditChangelistDialog" timestamp="1583976489680">
+    <state x="599" y="283" key="VCS.EditChangelistDialog" timestamp="1583984527256">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="599" y="283" key="VCS.EditChangelistDialog/0.0.1536.824@0.0.1536.824" timestamp="1583976489680" />
+    <state x="599" y="283" key="VCS.EditChangelistDialog/0.0.1536.824@0.0.1536.824" timestamp="1583984527256" />
     <state x="722" y="146" key="Vcs.Push.Dialog.v2" timestamp="1583901193721">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
