@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42a22c88-5258-4f08-8046-7578c377b6b2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../PycharmProjects/codedaddies_list2/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PycharmProjects/codedaddies_list2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PycharmProjects/codedaddies_list2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codedaddies_list.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+    </list>
+    <list id="826c9b40-8f09-4639-bc55-6b945d08762a" name="New changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="4" />
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../codedaddies_list\exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Lovely\codedaddies_list\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YgtDNM9z9PXwJFMLKGI2nJIqgG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Mercurial" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="codedaddies_list" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Lovely\AppData\Local\Continuum\anaconda3\envs\codedaddies_list\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42a22c88-5258-4f08-8046-7578c377b6b2" name="Default Changelist" comment="" />
+      <changelist id="826c9b40-8f09-4639-bc55-6b945d08762a" name="New changelist" comment="" />
+      <created>1583375944832</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583375944832</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="722" y="72" key="#Inspections" timestamp="1583476457392">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="722" y="72" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1583476457392" />
+    <state x="447" y="68" width="1089" height="740" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583393596677">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="68" width="1089" height="740" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1583393596677" />
+    <state x="911" y="219" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583892712548">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="911" y="219" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1583892712548" />
+    <state x="771" y="144" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1583393547790">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="771" y="144" key="#com.intellij.ide.macro.MacrosDialog/0.0.1536.824@0.0.1536.824" timestamp="1583393547790" />
+    <state x="802" y="10" key="CommitChangelistDialog2" timestamp="1583978886202">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="802" y="10" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1583978886202" />
+    <state x="727" y="184" key="EnvironmentVariablesDialog" timestamp="1583377170204">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="727" y="184" key="EnvironmentVariablesDialog/0.0.1536.824@0.0.1536.824" timestamp="1583377170204" />
+    <state x="896" y="167" key="FileChooserDialogImpl" timestamp="1583977805001">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="896" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583977805001" />
+    <state x="1008" y="310" key="Github.ShareDialog" timestamp="1583983586517">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="1008" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1583983586517" />
+    <state x="582" y="119" key="Github.UntrackedFilesDialog" timestamp="1583983590930">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="582" y="119" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1583983590930" />
+    <state width="847" height="208" key="GridCell.Tab.0.bottom" timestamp="1583393612466">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="847" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583393612466" />
+    <state width="847" height="208" key="GridCell.Tab.0.center" timestamp="1583393612466">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="847" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583393612466" />
+    <state width="847" height="208" key="GridCell.Tab.0.left" timestamp="1583393612466">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="847" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583393612466" />
+    <state width="847" height="208" key="GridCell.Tab.0.right" timestamp="1583393612466">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="847" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583393612466" />
+    <state x="408" y="112" key="SettingsEditor" timestamp="1583983824146">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="408" y="112" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583983824146" />
+    <state x="599" y="283" key="VCS.EditChangelistDialog" timestamp="1583976489680">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="599" y="283" key="VCS.EditChangelistDialog/0.0.1536.824@0.0.1536.824" timestamp="1583976489680" />
+    <state x="722" y="146" key="Vcs.Push.Dialog.v2" timestamp="1583901193721">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="722" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1583901193721" />
+    <state x="826" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1583977271809">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="826" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1583977271809" />
+    <state x="633" y="105" key="com.intellij.javaee.MapExternalResourceDialog" timestamp="1583462911229">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="633" y="105" key="com.intellij.javaee.MapExternalResourceDialog/0.0.1536.824@0.0.1536.824" timestamp="1583462911229" />
+    <state x="931" y="105" key="svn.repositoryBrowser" timestamp="1583897561242">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="931" y="105" key="svn.repositoryBrowser/0.0.1536.824@0.0.1536.824" timestamp="1583897561242" />
+  </component>
+</project>
