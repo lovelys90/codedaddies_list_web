@@ -1,0 +1,108 @@
+<html>
+<head>
+<title>base.html</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+.s0 { color: #e8bf6a;}
+.s1 { color: #bababa;}
+.s2 { color: #a9b7c6;}
+.s3 { color: #a5c261;}
+.s4 { color: #808080;}
+</style>
+</head>
+<body bgcolor="#2b2b2b">
+<table CELLSPACING=0 CELLPADDING=5 COLS=1 WIDTH="100%" BGCOLOR="#606060" >
+<tr><td><center>
+<font face="Arial, Helvetica" color="#000000">
+base.html</font>
+</center></td></tr></table>
+<pre><span class="s0">&lt;!DOCTYPE </span><span class="s1">html</span><span class="s0">&gt;</span>
+<span class="s2">{% load static %}</span>
+
+<span class="s0">&lt;html </span><span class="s1">lang</span><span class="s3">=&quot;en&quot;</span><span class="s0">&gt;</span>
+
+<span class="s0">&lt;head&gt;</span>
+    <span class="s0">&lt;meta </span><span class="s1">charset</span><span class="s3">=&quot;UTF-8&quot;</span><span class="s0">&gt;</span>
+    <span class="s0">&lt;title&gt;</span><span class="s2">Codedaddies List</span><span class="s0">&lt;/title&gt;</span>
+    <span class="s0">&lt;meta </span><span class="s1">charset</span><span class="s3">=&quot;UTF-8&quot;</span><span class="s0">&gt;</span>
+    <span class="s0">&lt;meta </span><span class="s1">name</span><span class="s3">=&quot;viewport&quot; </span><span class="s1">content</span><span class="s3">=&quot;width=device-width, initial-scale=1&quot;</span><span class="s0">/&gt;</span>
+    <span class="s0">&lt;link </span><span class="s1">rel</span><span class="s3">=&quot;stylesheet&quot; </span><span class="s1">href</span><span class="s3">=&quot;https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css&quot;</span><span class="s0">&gt;</span>
+    <span class="s0">&lt;link </span><span class="s1">href</span><span class="s3">=&quot;https://fonts.googleapis.com/icon?family=Material+Icons&quot; </span><span class="s1">rel</span><span class="s3">=&quot;stylesheet&quot;</span><span class="s0">&gt;</span>
+
+<span class="s0">&lt;/head&gt;</span>
+<span class="s0">&lt;body&gt;</span>
+<span class="s0">&lt;nav&gt;</span>
+    <span class="s0">&lt;div </span><span class="s1">class</span><span class="s3">=&quot;container nav-wrapper&quot;</span><span class="s0">&gt;</span>
+        <span class="s0">&lt;a </span><span class="s1">href</span><span class="s3">=&quot;/&quot; </span><span class="s1">class</span><span class="s3">=&quot;brand-logo&quot;</span><span class="s0">&gt;</span><span class="s2">Codedaddies List</span><span class="s0">&lt;/a&gt;</span>
+        <span class="s0">&lt;ul </span><span class="s1">id</span><span class="s3">=&quot;nav-mobile&quot; </span><span class="s1">class</span><span class="s3">=&quot;right&quot;</span><span class="s0">&gt;</span>
+            <span class="s0">&lt;li&gt;&lt;a </span><span class="s1">href</span><span class="s3">=&quot;/&quot;</span><span class="s0">&gt;</span><span class="s2">Home</span><span class="s0">&lt;/a&gt;&lt;/li&gt;</span>
+        <span class="s0">&lt;/ul&gt;</span>
+    <span class="s0">&lt;/div&gt;</span>
+<span class="s0">&lt;/nav&gt;</span>
+
+<span class="s0">&lt;div </span><span class="s1">class</span><span class="s3">=&quot;container&quot;</span><span class="s0">&gt;</span>
+
+    <span class="s0">&lt;h1 </span><span class="s1">style</span><span class="s3">=&quot;</span><span class="s2">text-align: center;</span><span class="s3">&quot;</span><span class="s0">&gt;</span><span class="s2">What do you want to search for on Codedaddies List?</span><span class="s0">&lt;/h1&gt;</span>
+        <span class="s0">&lt;div </span><span class="s1">class</span><span class="s3">=&quot;row&quot;</span><span class="s0">&gt;</span>
+            <span class="s0">&lt;div </span><span class="s1">class</span><span class="s3">=&quot;col s4&quot;</span><span class="s0">&gt;</span>
+                <span class="s4">&lt;!--Promo content 1 goes here --&gt;</span>
+                <span class="s0">&lt;div </span><span class="s1">class</span><span class="s3">=&quot;center&quot;</span><span class="s0">&gt;</span>
+                    <span class="s0">&lt;i </span><span class="s1">class</span><span class="s3">=&quot;large material-icons&quot; </span><span class="s1">style</span><span class="s3">=&quot;</span><span class="s2">color: #EE6E73;</span><span class="s3">&quot;</span><span class="s0">&gt;</span><span class="s2">flash_on</span><span class="s0">&lt;/i&gt;</span>
+                    <span class="s0">&lt;p&gt;</span><span class="s2">Fast craigslist web scraper</span><span class="s0">&lt;/p&gt;</span>
+                    <span class="s0">&lt;p </span><span class="s1">class</span><span class="s3">=&quot;light center&quot;</span><span class="s0">&gt;</span><span class="s2">Scraper away here with a beautiful GUI.</span><span class="s0">&lt;/p&gt;</span>
+                <span class="s0">&lt;/div&gt;</span>
+            <span class="s0">&lt;/div&gt;</span>
+            <span class="s0">&lt;div </span><span class="s1">class</span><span class="s3">=&quot;col s4&quot;</span><span class="s0">&gt;</span>
+                <span class="s4">&lt;!--Promo content 2 goes here --&gt;</span>
+                <span class="s0">&lt;div </span><span class="s1">class</span><span class="s3">=&quot;center&quot;</span><span class="s0">&gt;</span>
+                    <span class="s0">&lt;i </span><span class="s1">class</span><span class="s3">=&quot;large material-icons&quot; </span><span class="s1">style</span><span class="s3">=&quot;</span><span class="s2">color: orange;</span><span class="s3">&quot;</span><span class="s0">&gt;</span><span class="s2">camera</span><span class="s0">&lt;/i&gt;</span>
+                    <span class="s0">&lt;p&gt;</span><span class="s2">Filter your search</span><span class="s0">&lt;/p&gt;</span>
+                    <span class="s0">&lt;p </span><span class="s1">class</span><span class="s3">=&quot;light center&quot;</span><span class="s0">&gt;</span><span class="s2">We built in functionality to filetr base on pricing.</span><span class="s0">&lt;/p&gt;</span>
+                <span class="s0">&lt;/div&gt;</span>
+            <span class="s0">&lt;/div&gt;</span>
+            <span class="s0">&lt;div </span><span class="s1">class</span><span class="s3">=&quot;col s4&quot;</span><span class="s0">&gt;</span>
+                <span class="s4">&lt;!--Promo content 3 goes here --&gt;</span>
+                <span class="s0">&lt;div </span><span class="s1">class</span><span class="s3">=&quot;center&quot;</span><span class="s0">&gt;</span>
+                    <span class="s0">&lt;i </span><span class="s1">class</span><span class="s3">=&quot;large material-icons&quot; </span><span class="s1">style</span><span class="s3">=&quot;</span><span class="s2">color: blue;</span><span class="s3">&quot;</span><span class="s0">&gt;</span><span class="s2">chrome_reader_mode</span><span class="s0">&lt;/i&gt;</span>
+                    <span class="s0">&lt;p&gt;</span><span class="s2">A much sexier fron-end to Craigslist</span><span class="s0">&lt;/p&gt;</span>
+                    <span class="s0">&lt;p </span><span class="s1">class</span><span class="s3">=&quot;light center&quot;</span><span class="s0">&gt;</span><span class="s2">We built this with love.</span><span class="s0">&lt;/p&gt;</span>
+                <span class="s0">&lt;/div&gt;</span>
+            <span class="s0">&lt;/div&gt;</span>
+        <span class="s0">&lt;/div&gt;</span>
+        <span class="s0">&lt;form </span><span class="s1">action</span><span class="s3">=&quot;/&quot; </span><span class="s1">method</span><span class="s3">=&quot;POST&quot;</span><span class="s0">&gt;</span>
+            <span class="s2">{% csrf_token %}</span>
+            <span class="s0">&lt;input </span><span class="s1">type</span><span class="s3">=&quot;text&quot; </span><span class="s1">name</span><span class="s3">=&quot;search&quot; </span><span class="s1">placeholder</span><span class="s3">=&quot;search&quot;</span><span class="s0">&gt;</span>
+            <span class="s0">&lt;button </span><span class="s1">class</span><span class="s3">=&quot;btn waves-effect waves-light&quot; </span><span class="s1">type</span><span class="s3">=&quot;submit&quot; </span><span class="s1">name</span><span class="s3">=&quot;action&quot;</span><span class="s0">&gt;</span><span class="s2">Submit</span>
+                <span class="s0">&lt;i </span><span class="s1">class</span><span class="s3">=&quot;material-icons right&quot;</span><span class="s0">&gt;</span><span class="s2">send</span><span class="s0">&lt;/i&gt;</span>
+            <span class="s0">&lt;/button&gt;</span>
+        <span class="s0">&lt;/form&gt;</span>
+
+    <span class="s0">&lt;h2 </span><span class="s1">style</span><span class="s3">=&quot;</span><span class="s2">text-align: center</span><span class="s3">&quot;</span><span class="s0">&gt;</span><span class="s2">{{ search | title}}</span><span class="s0">&lt;/h2&gt;</span>
+    <span class="s0">&lt;div&gt;</span>
+        <span class="s2">{% for post in final_postings %}</span>
+            <span class="s0">&lt;div </span><span class="s1">class</span><span class="s3">=&quot;col s4&quot;</span><span class="s0">&gt;</span>
+              <span class="s0">&lt;div </span><span class="s1">class</span><span class="s3">=&quot;card&quot;</span><span class="s0">&gt;</span>
+                <span class="s0">&lt;div </span><span class="s1">class</span><span class="s3">=&quot;card-image&quot;</span><span class="s0">&gt;</span>
+                    <span class="s0">&lt;a </span><span class="s1">href</span><span class="s3">=&quot;{{ post.1 }}&quot;</span><span class="s0">&gt;&lt;img </span><span class="s1">src</span><span class="s3">=&quot;https://www.telegraph.co.uk/content/dam/Pets/spark/pets-at-home-2017/fluffy-white-puppy.jpg?imwidth=450&quot; </span><span class="s1">alt</span><span class="s3">=&quot;&quot;</span><span class="s0">/&gt;&lt;/a&gt;</span>
+                <span class="s0">&lt;/div&gt;</span>
+                <span class="s0">&lt;div </span><span class="s1">class</span><span class="s3">=&quot;card-content&quot;</span><span class="s0">&gt;</span>
+                  <span class="s0">&lt;p&gt;</span><span class="s2">{{ post.0 }}</span><span class="s0">&lt;/p&gt;</span>
+                <span class="s0">&lt;/div&gt;</span>
+                <span class="s0">&lt;div </span><span class="s1">class</span><span class="s3">=&quot;card-action&quot;</span><span class="s0">&gt;</span>
+                  <span class="s0">&lt;a </span><span class="s1">href</span><span class="s3">=&quot;{{ post.1 }}&quot;</span><span class="s0">&gt;</span><span class="s2">View listing: Price {{ post.2 }} </span><span class="s0">&lt;/a&gt;</span>
+                <span class="s0">&lt;/div&gt;</span>
+              <span class="s0">&lt;/div&gt;</span>
+            <span class="s0">&lt;/div&gt;</span>
+        <span class="s2">{% endfor %}</span>
+    <span class="s0">&lt;/div&gt;</span>
+
+        <span class="s2">{% block content %}</span>
+
+        <span class="s2">{% endblock %}</span>
+
+        <span class="s0">&lt;script </span><span class="s1">src</span><span class="s3">=&quot;https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css&quot;</span><span class="s0">&gt;&lt;/script&gt;</span>
+
+<span class="s0">&lt;/body&gt;</span>
+<span class="s0">&lt;/html&gt;</span></pre>
+</body>
+</html>
